@@ -34,7 +34,7 @@ bash
 
 **Copy code**
 
-git clone https://github.com/your-username/Car_Rental_Website.git
+git clone (https://github.com/Raksith-Ramachandran/Car_Rental_Website).git
 
 **Open the Homepage**
 Go to the project folder and open index.html in any browser.
